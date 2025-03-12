@@ -1,2 +1,2 @@
 # fontfindr.github.io
-Website for FontFindr
+Website for FontFindr.
