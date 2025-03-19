@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div class="mainDiv">
-        <h1>Welcome to FontFindr.</h1>
+        <h1>Welcome to the FontFindr.</h1>
         <Button component="a" href="mailto:team@fontfindr.io" color="black" variant="contained">
           Contact Us
         </Button>
